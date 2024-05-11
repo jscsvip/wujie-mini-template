@@ -1,0 +1,13 @@
+:root {
+  /* color: rgba(255, 255, 255, 0.87); */
+  background-color: beige;
+
+}
+/* 主应用样式 */
+.title{
+  background-color: #ccc;
+}
+/* 子应用样式 */
+.item{
+  background-color: #ccc;
+}
