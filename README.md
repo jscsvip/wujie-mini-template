@@ -2,5 +2,8 @@
 
 ## 启动命令
 
-npm i
-npm run dev
+- npm i
+- npm run dev
+
+项目说明:
+https://juejin.cn/post/7367246135531978762
